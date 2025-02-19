@@ -1,0 +1,42 @@
+© 2024-2025 Digitech Sync SRL. All Rights Reserved.
+
+This software, including but not limited to ChatSync AI, the Chatbot API, related machine learning models, and all associated files, is the exclusive property of Digitech Sync SRL ("Company"). Unauthorized use, reproduction, modification, or distribution of this software is strictly prohibited.
+
+ 1. License Grant
+Digitech Sync SRL grants a non-exclusive, non-transferable, revocable license to the user ("Licensee") under the following conditions:
+- Licensee may use the software only for its intended purpose as outlined in the applicable service agreement.
+- Licensee may not sell, lease, sublicense, modify, or distribute the software without express written consent from Digitech Sync SRL.
+- Licensee shall not attempt to reverse-engineer, decompile, or extract AI models or source code.
+
+ 2. Restrictions
+Licensee agrees NOT to:
+- Modify, copy, or create derivative works of the software.
+- Remove copyright notices or proprietary labels.
+- Use the software for illegal or unethical purposes.
+
+ 3. Ownership & Intellectual Property
+All intellectual property rights, including trademarks, copyrights, trade secrets, and AI models, remain the exclusive property of Digitech Sync SRL. No ownership rights are transferred under this license.
+
+ 4. Termination
+This license is effective until terminated. Digitech Sync SRL reserves the right to terminate access immediately if the Licensee:
+- Violates any term of this agreement.
+- Engages in unauthorized use, distribution, or modification of the software.
+
+Upon termination, the Licensee must immediately cease all use of the software and delete any copies.
+
+ 5. Disclaimer & Liability Limitation
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. DIGITECH SYNC SRL SHALL NOT BE LIABLE FOR ANY DAMAGES RESULTING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+ 6. Governing Law
+This license agreement is governed by the **laws of Romania** and any disputes shall be resolved through binding arbitration in accordance with the Romanian Chamber of Commerce and Industry.
+
+7. Contact Information
+For licensing inquiries, please contact:
+📧 Email: legal@syncwithivan.com  
+📍 Address: Str. Înv. Gheorghe Mîndruț, Nr. 42, Curcani, Călărași, Romania  
+📞 Phone: +40 763 736 658 / +40 785 555 370  
+
+---
+
+By using this software, you acknowledge that you have read and agree to the terms of this license.
+
